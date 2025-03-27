@@ -1,7 +1,7 @@
 -- discord.gg/tboyroblox
 
 
-shared.LoaderTitle = "Đăng Ký Kênh sung jin woo";
+shared.LoaderTitle = "Đăng Ký Kênh aki gaming";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
